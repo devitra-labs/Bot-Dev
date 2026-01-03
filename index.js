@@ -87,7 +87,7 @@ client.initialize();
 // =======================
 // 📌 ID GRUP ADMIN (WAJIB BENAR)
 // =======================
-const forwardGroupId = "120363424021306629@g.us"; // <- ganti jika perlu
+const forwardGroupId = "?"; // ganti id grup
 
 // =======================
 // Message state (per-user)
